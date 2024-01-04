@@ -4,6 +4,9 @@
 # data
 data/
 
+# virtual environment
+.nlp-project1
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
