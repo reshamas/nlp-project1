@@ -3,6 +3,7 @@
 
 # data
 data/
+notebooks/scratch.ipynb
 
 # virtual environment
 .nlp-project1
