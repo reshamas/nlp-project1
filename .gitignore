@@ -4,11 +4,9 @@
 # data
 data/
 data/raw-spacy
-notebooks/rs-practice/
-notebooks/scratch.ipynb
-notebooks/test-nlp.ipynb
-notebooks/rs-practice-spacy.ipynb
-notebooks/rs-test-nlp.ipynb
+
+# practice notebooks
+notebooks-rs-practice/
 
 # virtual environment
 .nlp-project1
