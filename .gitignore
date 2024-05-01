@@ -2,7 +2,7 @@
 .DS_Store
 
 # data
-data/
+data-media/
 data/raw-spacy
 
 # practice notebooks
